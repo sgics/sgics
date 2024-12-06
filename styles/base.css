@@ -1,0 +1,17 @@
+body {
+    font-size: 24px;
+    font-family: "IBM Plex Mono", monospace;
+    max-width: 80ch;
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    margin: 0 auto;
+    text-shadow: rgba(255, 255, 255, 1) 0px 0px 20px;
+    letter-spacing: 2px;
+}
+a {
+    color: cyan;
+}
+p {
+    padding-top: 1rem;
+}
