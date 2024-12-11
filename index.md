@@ -1,4 +1,6 @@
 ---
+title: CodeSphere Club
+description: CodeSphere is Sanjay Ghodawat International School's CS Club
 layout: home
 ---
 

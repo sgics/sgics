@@ -1,6 +1,10 @@
 ---
+title: CodeSphere Basics Workshop | Week 0
+description: This is the page that has the assignments for week 0 of CodeSphere's Basics Workshop
 layout: workshop
 ---
+
+# Week 0: Intro and Scratch
 
 [Link to presentation used in lecture](https://docs.google.com/presentation/d/1ReMwPS5l6j16eSbFLnKb6KCfaNBpSjwdbvLASWLmO6M/edit?usp=sharing)
 
