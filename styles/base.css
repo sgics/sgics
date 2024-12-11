@@ -9,9 +9,28 @@ body {
     text-shadow: rgba(255, 255, 255, 1) 0px 0px 20px;
     letter-spacing: 2px;
 }
+
 a {
     color: cyan;
 }
+
 p {
     padding-top: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: lime;
+    text-shadow: rgba(0, 255, 0, 1) 0px 0px 20px;
+    margin-bottom: 0;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
