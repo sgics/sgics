@@ -1,13 +1,15 @@
+---
+---
+
 <html lang="en">
 
 <head>
-    <title>CodeSphere</title>
+    <title>{{ page.title }}</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name='viewport' content='width=device-width'>
-
-    <link rel="stylesheet" href="/styles/normalize.css" />
-    <link rel="stylesheet" href="/styles/base.css" />
+    <link rel="stylesheet" href="/styles/normalize.css">
+    <link rel="stylesheet" href="/styles/main.css">
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -17,23 +19,7 @@
 </head>
 
 <body>
-    <header>
-        <h1>
-            /CodeSphere/Workshop
-        </h1>
-        <p>
-            CodeSphere's Basics workshop
-        </p>
-    </header>
-    <main>
-        <h2>
-            Select a week
-        </h2>
-        <ul>
-            <li><a href="/workshop/week0/">Week 0</a>: Intro and basics of scratch</li>
-        </ul>
-    </main>
-
+    {{ content }}
 </body>
 
 </html>
