@@ -26,8 +26,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sgics.club" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sgics
 
-theme: minima
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
